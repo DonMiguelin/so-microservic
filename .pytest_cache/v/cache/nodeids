@@ -1,0 +1,4 @@
+[
+  "tests/test_get_stats.py::test_get_cpu_percent",
+  "tests/test_get_stats.py::test_dummy"
+]

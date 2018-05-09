@@ -1,0 +1,300 @@
+    1  pwd
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd home/
+    6  ls
+    7  cd flaskdev/
+    8  ls
+    9  git clone https://github.com/chimbi18/so-microservices.git
+   10  ls
+   11  rm so-microservices/
+   12  git clone https://github.com/chimbi18/so-microservic.git
+   13  c so-microservic
+   14  ls
+   15  cd so-microservic
+   16  ls
+   17  whoami
+   18  pip3 install virtualenvwrapper
+   19  pip3 install --user virtualenvwrapper
+   20  ls
+   21  source /home/flaskdev/.local/bin/virtualenvwrapper.sh 
+   22  pwd
+   23  VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3.4
+   24  source /home/flaskdev/.local/bin/virtualenvwrapper.sh 
+   25  poweroff
+   26  power off
+   27  exit
+   28  vi ~/.bashrc
+   29  source ~/.local/bin/virtualenvwrapper.sh
+   30  vi ~/.bashrc
+   31  source ~/.bashrc
+   32  mkvirtualenv flaskdev
+   33  pip install flask
+   34  pip install pyyaml
+   35  pip install pygithub
+   36  deactivate
+   37  workon flaskdev
+   38  pip3 list
+   39  lsvirtualenv 
+   40  workon op-stats
+   41  mkvirtualenv op-stats
+   42  cd so-microservice
+   43  ls
+   44  cd tmp
+   45  ls
+   46  cd ..
+   47  cd home/
+   48  ls
+   49  cd flaskdev/
+   50  ls
+   51  cd so-microservices/
+   52  ls
+   53  git remote -y
+   54  cd ..
+   55  cd so-microservic/
+   56  git remote -y
+   57  ls
+   58  vi requirements.txt
+   59  mkdir op_stats
+   60  cd op_stats
+   61  vi app.py
+   62  vi requirements.txt
+   63  pip3 list
+   64  pip install flask
+   65  pip3 list
+   66  kdev) [flaskdev@localhost op_stats]$ pip install pyyaml
+   67  pip install pyyaml
+   68  pip install pygithub
+   69  vi app.py
+   70  python app.py
+   71   workon flaskdev
+   72  python app.py
+   73  vi app.py 
+   74  python app.py
+   75  python3 app.py
+   76  vi app.py 
+   77  python3 app.py
+   78  vi app.py 
+   79  python3 app.py
+   80  pip3 list
+   81  vi requirements.txt
+   82  git remote -y
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd op_stats/
+   87  ls
+   88  mkdir tests
+   89  cs tests/
+   90  vi test_get_stats.py
+   91  ls
+   92  vi requirements_dev.txt
+   93  gb
+   94  ls
+   95  cd ..
+   96  ls
+   97  cd op_stats/
+   98  ls
+   99  mv test ../
+  100  mv test ..
+  101  cd ..
+  102  ls
+  103  gaa
+  104  git add .
+  105  git commit -m "Upload Flask"
+  106  git push
+  107  exit
+  108  vi ~/.bashrc
+  109  exit
+  110  ls
+  111  cd ..
+  112  exit
+  113  pip install -user virtualenvwrapper
+  114  pip install --user virtualenvwrapper
+  115  export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+  116  vi ~/.bashrc
+  117  mkvirtualenv flaskdev
+  118  pip install flask
+  119  pip install pyyaml
+  120  pip install pygithub
+  121  deactivate
+  122  workon flaskdev
+  123  ls
+  124  mkvirtualenv flask_environment
+  125  workon flask_environment
+  126  pip install Flask
+  127  pip freeze > requirements.txt
+  128  pip3 list
+  129  pip2 install -r requirements_dev.txt
+  130  pip3 install -r requirements_dev.txt
+  131  ls
+  132  cd ..
+  133  ls
+  134  cd home/
+  135  ls
+  136  cd flaskdev/
+  137  ls
+  138  so-microservic
+  139  cd so-microservic
+  140  ls
+  141  cd op_stats/
+  142  ls
+  143  pip3 install -r requirements_dev.txt
+  144  pip freeze > requirements.txt
+  145  test
+  146  ls
+  147  pip3 install -r requirements_dev.txt
+  148  clear
+  149  pytest
+  150  ls
+  151  vi requirements.txt 
+  152  vi requirements_dev.txt 
+  153  pip3 install -r requirements_dev.txt
+  154  vi requirements_dev.txt 
+  155  pip3 install -r requirements_dev.txt
+  156  vi requirements_dev.txt 
+  157  pip3 install -r requirements_dev.txt
+  158  pytest
+  159  ls
+  160  mv test_get_stats.py tests/
+  161  ls
+  162  cd tests/
+  163  ls
+  164  vi test_get_stats.py 
+  165  ls
+  166  cd ..
+  167  ls
+  168  mkdir op_stat
+  169  mv op_stat/ op_stats
+  170  ls
+  171  mv app.py op_stats/
+  172  ls
+  173  cd op_stats/
+  174  touch __init__.py
+  175  ls
+  176  cd --
+  177  cd 
+  178  cd so-microservic
+  179  ls
+  180  cd -
+  181  ls
+  182  cd so-microservices/
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd so-microservic
+  187  ls
+  188  pwd
+  189  cd ..
+  190  ls
+  191  tree
+  192  cd so-microservic
+  193  ls
+  194  cd op_stats/
+  195  ls
+  196  mv requirements* ../
+  197  ls
+  198  cd ..
+  199  ls
+  200  cd op_stats/
+  201  ls
+  202  mv tests/ ../
+  203  ls
+  204  cd ..
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd so-microservic
+  209  ls
+  210  cd op_stats/
+  211  ls
+  212  cd op_stats/
+  213  ls
+  214  mv * ../
+  215  ls
+  216  cd ..
+  217  ls
+  218  rm -rf op_stats/
+  219  ls
+  220  cd ..
+  221  ls
+  222  tree
+  223  cat requirements_dev.txt 
+  224  vi requirements_dev.txt 
+  225  ls
+  226  tree
+  227  cat requirements.txt 
+  228  ls
+  229  pip3 list
+  230  ls
+  231  pytest
+  232  tree
+  233  ls
+  234  vi .gitignore 
+  235  ls
+  236  flask run
+  237  export FLASK_APP=op_stats/app.py
+  238  flask run
+  239  cd op_stats/
+  240  ls
+  241  vi metodo
+  242  mv metodo stats.py
+  243  ls
+  244  vi requirements.txt
+  245  ls 
+  246  cd ..
+  247  ls
+  248  vi requirements.txt 
+  249  pip3 install -r requirements.txt
+  250  vi requirements_dev.txt 
+  251  pip3 install -r requirements.txt
+  252  cat op_stats/app.py
+  253  vi op_stats/app.py
+  254  flask run
+  255  flask run --host=0.0.0.0.0 --port=8080
+  256  flask run --host=0.0.0.0 --port=8080
+  257  vi op_stats/app.py
+  258  cd ..
+  259  ls
+  260  cd so-microservic
+  261  ls
+  262  cd tests/
+  263  ls
+  264  vi test_get_stats.py 
+  265  touch __init__.py
+  266  vi test_get_stats.py 
+  267  pytest 
+  268  vi test_get_stats.py 
+  269  pytest 
+  270  vi test_get_stats.py 
+  271  pytest 
+  272  vi test_get_stats.py 
+  273  cd ..
+  274  ls
+  275  vi requirements_dev.txt 
+  276  pip3 install -r requirements_dev.txt 
+  277  pytest 
+  278  vi tests/test_get_stats.py 
+  279  pytest 
+  280  vi tests/test_get_stats.py 
+  281  pytest 
+  282  ls
+  283  pwd
+  284  touch chimbi_commands.txt
+  285  history>chimbi_commands.txt 
+  286  pytest 
+  287  vi tests/test_get_stats.py 
+  288  pytest 
+  289  ls
+  290  cd op_stats/
+  291  ls
+  292  vi stats.py 
+  293  vi app.py 
+  294  pytest 
+  295  cd ..
+  296  ls
+  297  pytest 
+  298  flask run --host=0.0.0.0 --port=8080
+  299  ls
+  300  history>chimbi_commands.txt 
